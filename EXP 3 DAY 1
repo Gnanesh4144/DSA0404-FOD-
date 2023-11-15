@@ -1,4 +1,4 @@
-oport pandas as pd
+import pandas as pd
 
 port numpy as np
 
